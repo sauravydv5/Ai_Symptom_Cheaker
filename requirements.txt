@@ -1,0 +1,6 @@
+Flask==2.3.2
+pandas
+joblib
+flask-cors
+python-dotenv
+gunicorn
